@@ -1,0 +1,37 @@
+# Slooze Frontend Challenge – React Submission
+
+## 🚀 How to Run the App
+1. npm install
+2. npm start
+
+## 👤 Test Credentials
+
+### Manager
+Email: manager@slooze.com  
+Password: manager123  
+
+### Store Keeper
+Email: storekeeper@slooze.com  
+Password: keeper123  
+
+## ✅ Features Implemented
+
+### Authentication & Access
+- Login with mock authentication
+- Role-based access control (Manager / StoreKeeper)
+- Protected routes with router guards
+
+### Core Features
+- Dashboard (Manager Only)
+- View Products (Both roles)
+- Add / Edit / Delete Products (Manager)
+
+### UI Enhancements
+- Light/Dark mode with localStorage
+- Dynamic menu restriction based on role
+
+## 🧰 Tech Stack
+- React
+- React Router
+- LocalStorage mock API
+- CSS variables for theming
